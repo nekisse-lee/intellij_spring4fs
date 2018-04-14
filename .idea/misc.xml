@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sp4chap02/pom.xml" />
+        <option value="$PROJECT_DIR$/chap03/pom.xml" />
+        <option value="$PROJECT_DIR$/sp4chap04/pom.xml" />
+        <option value="$PROJECT_DIR$/sp4chap05/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
