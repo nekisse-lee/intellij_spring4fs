@@ -1,6 +1,6 @@
 package chap07;
 
-public class impeCalculator implements Calculator{
+public class ImpeCalculator implements Calculator{
     @Override
     public long factorial(long num) {
 

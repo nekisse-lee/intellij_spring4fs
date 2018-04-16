@@ -14,7 +14,7 @@ public class ExeTimeCalculator implements Calculator {
         long start = System.nanoTime();
         long result = delegate.factorial(num);
         long end = System.nanoTime();
-        System.out.printf("%s.fatorial(%d) 실행 시간 =  %d\n",
+        System.out.printf("%s.factorial(%d) 실행 시간 =  %d\n",
                 delegate.getClass().getSimpleName(),
                 num, (end-start));
         return result;
