@@ -12,6 +12,9 @@
         <module name="sp4chap05" />
         <module name="sp4chap06" />
         <module name="sp4chap07" />
+        <module name="sp4chap08" />
+        <module name="sp4chap09" />
+        <module name="sp4chap11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +24,9 @@
       <module name="sp4chap05" target="1.7" />
       <module name="sp4chap06" target="1.7" />
       <module name="sp4chap07" target="1.7" />
+      <module name="sp4chap08" target="1.7" />
+      <module name="sp4chap09" target="1.7" />
+      <module name="sp4chap11" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
