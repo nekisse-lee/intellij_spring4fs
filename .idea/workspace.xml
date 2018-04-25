@@ -6,82 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0668c17e-1c21-4bd0-b1a8-ec63846fa617" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sp4chap09_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sp4chap09_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sp4chap11_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sp4chap11_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/sp4chap08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/main/MainForCPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/AlreadyExistingMemberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/IdPasswordNotMatchingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberListPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/java/spring/RegisterRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/resources/appCtx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap08/src/sql/ddl.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/sp4chap09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/src/main/java/chap09/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/spring-controller.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/sp4chap11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/controller/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/AlreadyExistingMemberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/IdPasswordNotMatchingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/src/main/java/spring/RegisterRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/spring-controller.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/spring-member.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0668c17e-1c21-4bd0-b1a8-ec63846fa617" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/sp4chap02/target/" />
     <ignored path="$PROJECT_DIR$/chap03/target/" />
     <ignored path="$PROJECT_DIR$/sp4chap04/target/" />
@@ -147,8 +72,8 @@
       <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/controller/RegisterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="384">
+              <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#253#254#0" expanded="true" />
@@ -838,12 +763,12 @@
       <workItem from="1524035490377" duration="37000" />
       <workItem from="1524035566808" duration="97000" />
       <workItem from="1524035713891" duration="647000" />
-      <workItem from="1524473362360" duration="14360000" />
+      <workItem from="1524473362360" duration="15214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57292000" />
+    <option name="totallyTimeSpent" value="58146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="0" />
@@ -1277,8 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="384">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#253#254#0" expanded="true" />
