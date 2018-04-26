@@ -1,3 +1,5 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<%@ taglib prefix="from" uri="http://www.springframework.org/tags/form" %>
 <%--
   Created by IntelliJ IDEA.
   User: nekisse
@@ -12,30 +14,30 @@
 </head>
 <body>
 <h2>회원 정보 입력</h2>
-<form action="step3" method="post">
+<form:form action="step3" commandName="registerRequest">
 
     <p>
         <label>이메일: <br>
-            <input type="text" name="email" id="email" value="${registerRequest.email}"/>
+            <from:input path="email"/>
         </label>
     </p>
     <p>
         <label>이름: <br>
-            <input type="text" name="name" id="name" value="${registerRequest.name}"/>
+            <from:input path="name"/>
         </label>
     </p>
 
     <p>
         <label>비밀번호:<br>
-            <input type="password" name="password" id="password"/>
+            <from:input path="password"/>
         </label>
     </p>
     <p>
         <label>비밀번호확인:<br>
-            <input type="password" name="confirmPassword" id="confirmPassword"/>
+            <from:input path="confirmPassword"/>
         </label>
     </p>
     <input type="submit" value="가입완료"/>
-</form>
+</form:form>
 </body>
 </html>
