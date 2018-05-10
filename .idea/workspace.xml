@@ -7,23 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0668c17e-1c21-4bd0-b1a8-ec63846fa617" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chap03/src/main/java/test/ArryListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap03/src/main/java/test/QueueEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/javapractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/BoundedTypeParameterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/Course/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProductAndStorageExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/StorageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/BooleanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/FromIntToFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/LogicalOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/TrueAndFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_this_is_java/src/chap03/variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp4chap09/sp4chap09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sp4chap09/sp4chap09.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sp4chap02/target/" />
     <ignored path="$PROJECT_DIR$/chap03/target/" />
@@ -71,120 +69,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Util.java">
+      <file leaf-file-name="java.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="240">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoundedTypeParameterExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/BoundedTypeParameterExample.java">
+      <file leaf-file-name="variable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/variable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="40">
+              <caret line="2" selection-start-line="2" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Course/Course.java">
+      <file leaf-file-name="BooleanExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/BooleanExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FromIntToFloat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/FromIntToFloat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exception.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrueAndFalse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/TrueAndFalse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogicalOperatorExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/LogicalOperatorExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/practise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathRandom.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/MathRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-              <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Storage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StorageImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/StorageImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildProductAndStorageExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProductAndStorageExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="e#192#212#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,15 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/spring-controller.xml" />
-        <option value="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/view/hello.jsp" />
-        <option value="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/sp4chap11/pom.xml" />
-        <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/spring-member.xml" />
-        <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step1.xhtml" />
         <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step1.jsp" />
         <option value="$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/sp4chap11/src/main/java/spring/MemberRegisterService.java" />
@@ -286,6 +240,15 @@
         <option value="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Product.java" />
         <option value="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProductAndStorageExample.java" />
         <option value="$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/java.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/variable.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/BooleanExample.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/FromIntToFloat.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/exception.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/TrueAndFalse.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/LogicalOperatorExample.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/practise.java" />
+        <option value="$PROJECT_DIR$/java_this_is_java/src/chap03/MathRandom.java" />
       </list>
     </option>
   </component>
@@ -327,7 +290,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
@@ -340,55 +303,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
+              <item name="java_this_is_java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
+              <item name="java_this_is_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
+              <item name="java_this_is_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring4fs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="genericextends" type="462c0819:PsiDirectoryNode" />
+              <item name="chap03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,12 +335,13 @@
     <property name="SearchEverywhereHistoryKey" value="form&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/webapp/WEB-INF/view/survey/surveyForm.jsp&#10;con&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/src/main/java/survey/SurveyController.java&#10;qu&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/src/main/java/survey/Question.java&#10;cont&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/src/main/java/survey/SurveyController.java&#10;spring-&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/webapp/WEB-INF/spring-controller.xml&#10;Registe&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/src/main/java/controller/RegisterController.java&#10;step2&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap11/webapp/WEB-INF/view/register/step2.jsp&#10;Chan&#9;PSI&#9;JAVA://spring.ChangePasswordService&#10;pom&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap08/pom.xml&#10;memberinfo&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/sp4chap04/src/main/java/spring/MemberInfoPrinter.java&#10;ctx2&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/resources/appCtx2.xml&#10;Versionp&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/java/spring/VersionPrinter.java&#10;main&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/java/main/MainForSpring2.java&#10;ctx&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/resources/appCtx2.xml&#10;prin&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/java/spring/MemberPrinter.java&#10;list&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/spring4fs/chap03/src/main/java/spring/MemberListPrinter.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -438,50 +378,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChildProductAndStorageExample">
+  <component name="RunManager" selected="Application.MathRandom">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ArryListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ArryListEx" />
-      <module name="chap03" />
+    <configuration name="LogicalOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.LogicalOperatorExample" />
+      <module name="java_this_is_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="BoundedTypeParameterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.BoundedTypeParameterExample" />
-      <module name="javapractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generic.Course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ChildProductAndStorageExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.genericextends.ChildProductAndStorageExample" />
-      <module name="javapractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generic.genericextends.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="sp4chap08" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,19 +404,52 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="QueueEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.QueueEx2" />
-      <module name="chap03" />
+    <configuration name="MathRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.MathRandom" />
+      <module name="java_this_is_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TrueAndFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.TrueAndFalse" />
+      <module name="java_this_is_java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.exception" />
+      <module name="java_this_is_java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.practise" />
+      <module name="java_this_is_java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -708,35 +648,22 @@
         <option name="LOCAL" value="false" />
       </RunnerSettings>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <list>
       <item itemvalue="Application.MainXmlPojo" />
       <item itemvalue="Tomcat Server.Unnamed" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ArryListEx" />
-      <item itemvalue="Application.QueueEx2" />
-      <item itemvalue="Application.BoundedTypeParameterExample" />
-      <item itemvalue="Application.ChildProductAndStorageExample" />
+      <item itemvalue="Application.exception" />
+      <item itemvalue="Application.TrueAndFalse" />
+      <item itemvalue="Application.LogicalOperatorExample" />
+      <item itemvalue="Application.practise" />
+      <item itemvalue="Application.MathRandom" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChildProductAndStorageExample" />
-        <item itemvalue="Application.BoundedTypeParameterExample" />
-        <item itemvalue="Application.QueueEx2" />
-        <item itemvalue="Application.ArryListEx" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MathRandom" />
+        <item itemvalue="Application.practise" />
+        <item itemvalue="Application.LogicalOperatorExample" />
+        <item itemvalue="Application.TrueAndFalse" />
+        <item itemvalue="Application.exception" />
       </list>
     </recent_temporary>
   </component>
@@ -773,16 +700,22 @@
       <workItem from="1524723320641" duration="11216000" />
       <workItem from="1525248985643" duration="1241000" />
       <workItem from="1525323727393" duration="3523000" />
-      <workItem from="1525492708014" duration="4049000" />
+      <workItem from="1525492708014" duration="5212000" />
+      <workItem from="1525503948030" duration="3812000" />
+      <workItem from="1525753527358" duration="618000" />
+      <workItem from="1525754313886" duration="522000" />
+      <workItem from="1525754880237" duration="5237000" />
+      <workItem from="1525844236614" duration="511000" />
+      <workItem from="1525844805852" duration="5929000" />
+      <workItem from="1525932426516" duration="4393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78763000" />
+    <option name="totallyTimeSpent" value="100948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -796,7 +729,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969373" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39969373" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32924962" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -804,10 +737,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.75038284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5528331" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992343" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32924962" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992343" visible="true" weight="0.18336026" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.5007657" side_tool="true" weight="0.16074313" />
@@ -816,10 +749,10 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Dynamic Properties" order="4" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32956383" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,73 +763,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java_this_is_java/src/chap03/MathRandom.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/view/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap09/webapp/WEB-INF/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/webapp/WEB-INF/view/register/step3.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/spring/RegisterRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/spring/MemberDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sp4chap11/src/main/java/survey/Respondent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1099,119 +977,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javapractice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="140">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/BoundedTypeParameterExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="200">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Course/WildCardExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Course/WildCardExample.java" />
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/Course/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/ChildProductAndStorageExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="e#192#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/StorageImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/StorageImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javapractice/src/main/java/generic/genericextends/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/BooleanExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/FromIntToFloat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/TrueAndFalse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/LogicalOperatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/practise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="656" column="35" selection-start-line="656" selection-start-column="35" selection-end-line="656" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_this_is_java/src/chap03/MathRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1270,7 +1172,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>chap03</last-edited>
+          <last-edited>java_this_is_java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

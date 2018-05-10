@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chap03" />
-        <module name="javapractice" />
         <module name="sp4chap02" />
         <module name="sp4chap04" />
         <module name="sp4chap05" />
