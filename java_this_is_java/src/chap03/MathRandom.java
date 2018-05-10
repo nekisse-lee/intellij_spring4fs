@@ -34,7 +34,7 @@ public class MathRandom {
 
         }
 
-        System.out.print(" 입니다.");
+        System.out.print(" 입dd니다.");
 
     }
 
