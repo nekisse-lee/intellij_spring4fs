@@ -1,41 +1,32 @@
 package chap03;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class MathRandom {
     public static void main(String[] args) {
-        int Lotto[] = new int[6];
-
-// 배열 생성
-
-
+        // 배열 생성
+        int lotto[] = new int[6];
         System.out.print("Lotto 선택 숫자는 ");
 
-
-        for (int i = 0; i < Lotto.length; i++) {
-
-            Lotto[i] = (int) (Math.random() * 45) + 1;
-
-            // 랜덤 값 반환
-
-
+        // 랜덤 값 반환
+        for (int i = 0; i < lotto.length; i++) {
+            lotto[i] = getRandomNum();
+            // 중복 값 제거1
             for (int j = 0; j < i; j++) {
-                if (Lotto[i] == Lotto[j]) {
+                if (lotto[i] == lotto[j]) {
                     i--;
-                    break;
-                }  // 중복 값 제거1
+                }
             }
         }
 
-        for (int i = 0; i < Lotto.length; i++) {
-
-            System.out.print(Lotto[i] + " ");
-
+        for (int i = 0; i < lotto.length; i++) {
+            System.out.print(lotto[i] + " ");
         }
 
         System.out.print(" 입dffffd니다.dddddddddd");
 
+    }
+
+    private static int getRandomNum() {
+        return (int) (Math.random() * 45) + 1;
     }
 
 }
