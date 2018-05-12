@@ -13,6 +13,7 @@ public class java {     //클래스블록
         //변수 result 의 값을 읽고 콘솔에 출력
         System.out.println(result);
 
-        testffffff windwo
+        testffffff
+                mac
     }
 }
