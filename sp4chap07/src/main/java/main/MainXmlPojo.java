@@ -1,7 +1,7 @@
 package main;
 
-import chap07.Calculator;
-import chap07.ImpeCalculator;
+import chap07extends.Calculator;
+import chap07extends.ImpeCalculator;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class MainXmlPojo {

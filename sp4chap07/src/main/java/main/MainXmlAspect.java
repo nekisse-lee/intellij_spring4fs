@@ -1,6 +1,6 @@
 package main;
 
-import chap07.Calculator;
+import chap07extends.Calculator;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class MainXmlAspect {

@@ -2,7 +2,7 @@ package main;
 
 import org.springframework.context.support.GenericXmlApplicationContext;
 
-import chap07.Calculator;
+import chap07extends.Calculator;
 
 public class MainXmlOrder {
 

@@ -1,8 +1,8 @@
 package config;
 
 import aspect.ExeTimeAspect2;
-import chap07.Calculator;
-import chap07.RecCalculator;
+import chap07extends.Calculator;
+import chap07extends.RecCalculator;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;

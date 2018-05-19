@@ -9,11 +9,11 @@
 
     </bean>
 
-    <bean id="impeCal" class="chap07.ImpeCalculator">
+    <bean id="impeCal" class="chap07extends.ImpeCalculator">
 
     </bean>
 
-    <bean id="recCal" class="chap07.RecCalculator">
+    <bean id="recCal" class="chap07extends.RecCalculator">
 
     </bean>
 </beans>

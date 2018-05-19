@@ -1,8 +1,8 @@
 package main;
 
-import chap07.ExeTimeCalculator;
-import chap07.ImpeCalculator;
-import chap07.RecCalculator;
+import chap07extends.ExeTimeCalculator;
+import chap07extends.ImpeCalculator;
+import chap07extends.RecCalculator;
 
 public class MainProxy {
 

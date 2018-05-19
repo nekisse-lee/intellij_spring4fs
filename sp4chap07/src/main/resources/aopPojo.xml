@@ -11,14 +11,14 @@
     <aop:config proxy-target-class="true">
         <aop:aspect id="measureAspect" ref="exeTimeAspect">
             <aop:pointcut id="publicMethod"
-                          expression="execution(public * chap07..*(..))"/>
+                          expression="execution(public * chap07extends..*(..))"/>
             <aop:around pointcut-ref="publicMethod" method="measure"/>
         </aop:aspect>
     </aop:config>
-    <bean id="impeCal" class="chap07.ImpeCalculator">
+    <bean id="impeCal" class="chap07extends.ImpeCalculator">
 
     </bean>
-    <bean id="recCal" class="chap07.RecCalculator">
+    <bean id="recCal" class="chap07extends.RecCalculator">
 
     </bean>
 

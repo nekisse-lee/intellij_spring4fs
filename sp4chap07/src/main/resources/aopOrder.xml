@@ -6,19 +6,19 @@
     <bean id="cacheAspect" class="aspect.CacheAspect"/>
 
 
-    <bean id="impeCal" class="chap07.ImpeCalculator">
+    <bean id="impeCal" class="chap07extends.ImpeCalculator">
         
     </bean>
     <aop:config>
         <aop:aspect id="calculatorCache" ref="cacheAspect" order="1">
             <aop:pointcut id="calculatorMethod"
-                          expression="execution(public * chap07.Calculator.*(..))"/>
+                          expression="execution(public * chap07extends.Calculator.*(..))"/>
             <aop:around pointcut-ref="calculatorMethod" method="execute"/>
         </aop:aspect>
 
         <aop:aspect id="measureAspect" ref="exeTimeAspect" order="0">
             <aop:pointcut id="publicMethod"
-                          expression="execution(public * chap07..*(..))"/>
+                          expression="execution(public * chap07extends..*(..))"/>
             <aop:around pointcut-ref="publicMethod" method="measure"/>
         </aop:aspect>
 
