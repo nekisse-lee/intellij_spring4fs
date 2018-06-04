@@ -11,7 +11,7 @@ public class DateTimeFormatExample {
 
         String nowString = now.format(formatter);
 
-        System.out.println("nowString = " + nowString);
+        System.out.println("nowString  = " + nowString);
 
     }
 }

@@ -41,6 +41,5 @@ public class DateTimeInfoExample {
 
         ZoneOffset seoulZoneOffset = seoulDateTime.getOffset();
         System.out.println("서울 존오프셋 = " + seoulZoneOffset);
-
     }
 }
