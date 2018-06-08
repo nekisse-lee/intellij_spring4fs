@@ -17,8 +17,9 @@ public class ExecuteSubmitExample {
                 String threadName = Thread.currentThread().getName();
                 System.out.println("[총 스레드 개수 : " + poolSize + "] 작업 스레드 이름: " + threadName);
                 int value = Integer.parseInt("삼삼삼삼");
-                System.out.println("TEST");
             };
+
+//            executorService.execute(runnable);
 
             executorService.submit(runnable);
             Thread.sleep(10);
