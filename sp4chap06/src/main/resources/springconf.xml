@@ -7,12 +7,12 @@
 
 
     <bean id="client" class="spring.Client">
-        <property name="host" value="서버"/>
+        <property 수강코스명="host" value="서버"/>
     </bean>
 
     <bean id="client2" class="spring.Client2"
     init-method="connect" destroy-method="close">
-        <property name="host" value="서버2"/>
+        <property 수강코스명="host" value="서버2"/>
 
     </bean>
 </beans>

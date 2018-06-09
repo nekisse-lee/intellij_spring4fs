@@ -4,11 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
 
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
-        <property name="driverClass" value="com.mysql.jdbc.Driver"/>
-        <property name="jdbcUrl"
+        <property 수강코스명="driverClass" value="com.mysql.jdbc.Driver"/>
+        <property 수강코스명="jdbcUrl"
                   value="jdbc:mysql://localhost/spring4fs?characterEncoding=utf8"/>
-        <property name="user" value="root"/>
-        <property name="password" value="dltjsgh"/>
+        <property 수강코스명="user" value="root"/>
+        <property 수강코스명="password" value="dltjsgh"/>
     </bean>
 
 
@@ -17,7 +17,7 @@
     </bean>
 
     <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-        <property name="dataSource" ref="dataSource"/>
+        <property 수강코스명="dataSource" ref="dataSource"/>
     </bean>
 
     <tx:annotation-driven transaction-manager="transactionManager"/>
@@ -41,7 +41,7 @@
     </bean>
 
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao"/>
-        <property name="printer" ref="memberPrinter"/>
+        <property 수강코스명="memberDao" ref="memberDao"/>
+        <property 수강코스명="printer" ref="memberPrinter"/>
     </bean>
 </beans>

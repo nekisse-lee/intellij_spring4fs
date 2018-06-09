@@ -6,6 +6,6 @@
 		http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="greeter" class="chap02.Greeter">
-        <property name="format" value="%s, 안녕하세요!"/>
+        <property 수강코스명="format" value="%s, 안녕하세요!"/>
     </bean>
 </beans>

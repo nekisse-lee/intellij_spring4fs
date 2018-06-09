@@ -10,7 +10,7 @@
     </bean>
 
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao"/>
-        <property name="printer" ref="memberPrinter"/>
+        <property 수강코스명="memberDao" ref="memberDao"/>
+        <property 수강코스명="printer" ref="memberPrinter"/>
     </bean>
 </beans>

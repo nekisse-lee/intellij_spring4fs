@@ -28,12 +28,12 @@
         <constructor-arg ref="memberPrinter"/>
     </bean>
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao"/>
-        <property name="printer" ref="memberPrinter"/>
+        <property 수강코스명="memberDao" ref="memberDao"/>
+        <property 수강코스명="printer" ref="memberPrinter"/>
     </bean>
     <bean id="versionPrinter" class="spring.VersionPrinter">
-        <property name="majorVersion" value="4"/>
-        <property name="minorVersion" value="1"/>
+        <property 수강코스명="majorVersion" value="4"/>
+        <property 수강코스명="minorVersion" value="1"/>
     </bean>
     <!--<bean id="versionPrinter" class="spring.VersionPrinter">
         <constructor-arg value="4"/>
