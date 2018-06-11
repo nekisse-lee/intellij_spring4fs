@@ -5,7 +5,7 @@ import java.util.function.*;
 public class ConsumerExample {
     public static void main(String[] args) {
         Consumer<String> consumer =
-                s -> System.out.println(s + "8");
+                s -> System.out.println("s + \"8\" = " + s + "8");
         consumer.accept("JAVA");
 
         BiConsumer<String, String> biConsumer =
@@ -19,8 +19,5 @@ public class ConsumerExample {
         ObjIntConsumer<String> objIntConsumer =
                 (s, value) -> System.out.println("s + value = " + s + value);
         objIntConsumer.accept("JAVA", 8);
-
-
-
     }
 }
