@@ -3,7 +3,8 @@ package chap15_collection.sec06.exam02_queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class QueueExample {
+public class
+QueueExample {
     public static void main(String[] args) {
 
         Queue<Message> messageQueue = new LinkedList<>();
